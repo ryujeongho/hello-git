@@ -4,6 +4,7 @@ import com.sh.app.animal.Bird;
 import com.sh.app.animal.Cat;
 import com.sh.app.animal.Dog;
 import com.sh.app.animal.Pig;
+import com.sh.app.animal.Tiger;
 
 public class Main {
 
@@ -15,6 +16,7 @@ public class Main {
 		new Cat().jump();
 		new Pig().cry();
 		new Bird().fly();
+		new Tiger().jump();
 	}
 
 }
