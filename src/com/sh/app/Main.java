@@ -11,7 +11,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO GIT");
-	
+		
+		System.out.println("Animal Go~");
 		new Dog().bark();
 		new Cat().jump();
 		new Pig().cry();
