@@ -17,4 +17,7 @@ public class Main {
 		new Bird().fly();
 	}
 
+	public void test() {
+		System.out.println("Main#test");
+	}
 }
